@@ -137,7 +137,7 @@ MIT License - Free for personal and educational use
 - Add camera integration for visual confirmation
 - Develop mobile app for remote monitoring
 
-##🤝 ##Connect with Me
+🤝Connect with Me
 
 Have questions about this project, or are you working on your own exciting Arduino endeavors? 
 Feel free to connect or DM me on LinkedIn! 
